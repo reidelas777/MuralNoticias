@@ -67,9 +67,10 @@ if(isset($_POST['btn_enviar']))
         </div>
         <footer>
             <img src="img/robo.png" alt="Robo">
-            <p>Todos os direitos reservado ao Alunos Etec</p>
+            <p>Todos os direitos reservado ao Alunos Etec</p>"testando github"
             <p><a href="login.php">Area Restrita</a></p>
         </footer>
     </div>
+    teste github
 </body>
 </html>
